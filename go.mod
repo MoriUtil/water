@@ -1,4 +1,4 @@
-module github.com/mudler/water
+module github.com/MoriUtil/water
 
 go 1.19
 
