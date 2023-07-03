@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TinyGoPlugin">
+    <option name="targetPlatform" value="pico" />
+  </component>
+  <component name="TinyGoPluginUserConfig">
+    <option name="sdkStorage">
+      <TinyGoSdkStorage>
+        <option name="sdkUrl" value="file://$USER_HOME$/sdk/tinygo-v0.27.0" />
+        <option name="version">
+          <TinyGoSdkVersion>
+            <option name="minor" value="27" />
+          </TinyGoSdkVersion>
+        </option>
+      </TinyGoSdkStorage>
+    </option>
+  </component>
+</project>
