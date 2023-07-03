@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mudler/water/waterutil"
+	"github.com/MoriUtil/water/waterutil"
 )
 
 const BUFFERSIZE = 1522
